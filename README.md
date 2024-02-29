@@ -1,4 +1,4 @@
-# Simple aws implementation of Resume on Cloud using docker [Deployed on Nginx server on Docker Host in below Image]. Below is the architecture diagram 
+# Simple aws implementation of Resume on Cloud using Docker [deployed on nginx server on docker host in below Image]. Below is the architecture diagram 
 
 Available at : www.sc-dev.site
 
